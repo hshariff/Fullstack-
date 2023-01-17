@@ -1,15 +1,41 @@
 h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 100px
-    
+    font-size: 50px
 }
 
 h2{
-    font size: 100px
+    font size: 25px
 }
 
-.first-div{
+.First-div{
     background-color: blue;
+    font-style: oblique;
+}
+
+.Second-div{
+    background-color: red;
+    font-style: italic;
+}
+
+.Third-div{
+    background-color: aqua;
+    font-style: oblique;
+    font-size: 15px;
+}
+
+h3{
+    font-style: italic;
+}
+
+.Fourth-div{
+    background-color: burlywood;
+    font-style: oblique;
+    font-size: 15px;
+}
+
+a{
+    text-decoration: none;
+    color:cadetblue
+    font-style: italic;
     
 }
-
