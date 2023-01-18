@@ -1,0 +1,47 @@
+.box1{
+    background-color: aquamarine;
+    width: 50%;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: auto;
+    margin-left: 50%;
+}
+
+.box2{
+    background-color: pink;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: auto;
+    
+    
+}
+
+.box3{
+    background-color: red;
+    width: 75%
+    
+}
+
+.box4{
+    background-color: brown;
+    width: 25%
+
+}
+
+
+body{
+    border: 2px solid black;
+    border-radius: 5px;
+    
+}
+
+*{
+    background-color: green;
+    margin: 0px;
+}
+
+ul, ol{
+    text-align: center;
+    list-style-position: inside;
+}
+
