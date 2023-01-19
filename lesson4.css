@@ -1,0 +1,78 @@
+#nav{
+    list-style-type: none; 
+    display: flex;
+    background-color: brown;
+}
+
+
+.items{
+    display: block;
+    padding: 10px 15px;
+}
+
+li a{
+    text-decoration: none;
+    color: blue;
+}
+
+li a:hover{
+    color: black;
+    
+}
+
+a{
+    display: block;
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover{
+    color: black;
+}
+
+img{
+    width: 400px;
+    height: 250px;
+    opacity: 0.5;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;  
+     
+}
+
+a img:hover{
+    opacity: 2;
+ 
+}
+
+#first{
+
+    color: orange;
+}
+
+#second{
+    color: pink;
+}
+
+#third{
+    color: blueviolet;
+}
+
+#image{
+    color: olivedrab;
+    
+}
+
+#picure{
+
+}
+
+div{
+    background-color: brown;
+}
+
+body{
+    margin-right: 5%;
+    margin-left: 5%
+}
+
