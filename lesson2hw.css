@@ -38,7 +38,7 @@ h3{
     font-style: italic;
 }
 
-.Fourth-div{
+.fourth-div{
     background-color: burlywood;
     font-style: oblique;
     font-size: 15px;
@@ -63,5 +63,9 @@ img{
     margin-left: auto;
     margin-right: auto;
     width: 25%;
-    
+  
+}
+
+a.img:hover{
+    opacity: 2;
 }
