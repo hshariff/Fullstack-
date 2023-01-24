@@ -36,10 +36,10 @@
 
 //5  
     var countries = ["Algeria", "Bahrain", " Egypt", "Kuwait", "Palestine", "Saudi Arabia", "Jordan" , "Yemen" , "Oman", "Tunisia", "UAE" , "Turkey", "Libya", "Syria", "Lebanon"]
-    console.log(countries)
+    //console.log(countries)
 
 //6 
-    countries.pop(0)
+   countries.pop(0)
     console.log(countries)
 
 //7 
@@ -49,12 +49,16 @@
 //8 
     
 
-countries.push ("Algeria")
-        console.log(countries)
+//countries.push ("Algeria")
+        //console.log(countries)
 
-countries.push ([2])
+//countries.push ([2])
 
 console.log(countries)   
+
+//console.log(countries.length - [0])
+countries.push ("Algeria")
+console.log(countries)
 
 
    
