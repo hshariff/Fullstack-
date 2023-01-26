@@ -39,7 +39,7 @@
     //console.log(countries)
 
 //6 
-   countries.pop(0)
+   countries.pop()
     console.log(countries)
 
 //7 
@@ -54,13 +54,13 @@
 
 //countries.push ([2])
 
-console.log(countries)   
+//console.log(countries)   
 
 //console.log(countries.length - [0])
-countries.push ("Algeria")
-console.log(countries)
+//countries.push ("Algeria")
+//console.log(countries)
 
-
-   
-
+console.log(countries[0])
+console.log(countries[countries.length-1])  
+console.log(countries[countries.length-7])
 
